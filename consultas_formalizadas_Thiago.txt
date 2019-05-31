@@ -1,0 +1,12 @@
+Consulta 01)
+Retorne a média de avaliação dos 10 filmes com mais número de votos.
+
+Consulta 02)
+Retorne o diretor e o nome dos 5 primeiros filmes que foram mais bem avaliados.
+
+Consulta 03)
+Retorne o número de filmes produzidos por cada país.
+
+Consulta 04)
+Retorne o nome e a média de avaliação de todas as séries do banco, bem como o ano que começou, ano que terminou e duração.
+Note que o identificador de séries corresponde à tvSeries.
