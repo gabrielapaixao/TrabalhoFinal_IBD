@@ -1,0 +1,9 @@
+1 - Listar todos os filmes indianos e seus investimentos desde 2013 por ordem de avaliação
+2 - Listar todos os filmes americanos e seus investimentos desde 2013 por ordem de avaliaçao
+----> planejamento: tabela comparativa e explicação sobre o crescimento da indústria do cinema no país que está entre os cinco polos produtores e consumidores de cinema no mundo
+
+3-Listar animações por ordem de avaliação
+----> planejamento: analisar o crescimento da popularidade dos animes no mundo além de trabalhar o sucesso de obras recentes que ocupam top 10 com obras consideradas clássicas
+
+4-Listar jogos por odem de avaliação
+----> planejamento: 
